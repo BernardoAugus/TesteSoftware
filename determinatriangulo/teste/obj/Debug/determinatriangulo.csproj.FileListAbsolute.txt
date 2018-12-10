@@ -1,0 +1,13 @@
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\determinatriangulo.exe.config
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\determinatriangulo.exe
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\determinatriangulo.pdb
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\obj\Debug\determinatriangulo.csprojResolveAssemblyReference.cache
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\obj\Debug\determinatriangulo.exe
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\obj\Debug\determinatriangulo.pdb
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\nunit.framework.dll
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\nunit.framework.pdb
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\nunit.framework.xml
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\NUnit3.TestAdapter.dll
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\NUnit3.TestAdapter.pdb
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\nunit.engine.dll
+c:\users\erick\onedrive\documentos\visual studio 2017\Projects\determinatriangulo\determinatriangulo\bin\Debug\nunit.engine.api.dll
